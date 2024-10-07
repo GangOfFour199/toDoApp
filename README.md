@@ -37,9 +37,10 @@ The logic is separated by:
 - Stack Overflow
 - Geeks for Geeks
 - W3C Schools
-- Font Awesome for Icons
+- Font Awesome Icons
 - Mozilla Developer Network
 - Javascript Documentation
+- ![date-fns](https://date-fns.org/)
 
 ## LINKS
 
