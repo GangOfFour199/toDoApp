@@ -85,7 +85,7 @@
     border-radius: 8px;
     display: grid;
     grid-template: max-content / 1fr max-content;
-    width: 80vw;
+    width: 100vw;
     padding: 15px 20px 15px 30px;
     gap: 100px;
     overflow: hidden;
