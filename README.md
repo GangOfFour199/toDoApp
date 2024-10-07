@@ -46,6 +46,6 @@ The logic is separated by:
 
 [Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-todo-list)
 
-[Organise your busy schedule here!](https://gangoffour199.github.io/restaurant/)
+[Organise your busy schedule here!](https://gangoffour199.github.io/toDoApp/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
