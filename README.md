@@ -40,7 +40,7 @@ The logic is separated by:
 - Font Awesome Icons
 - Mozilla Developer Network
 - Javascript Documentation
-- ![date-fns](https://date-fns.org/)
+- [date-fns](https://date-fns.org/)
 
 ## LINKS
 
