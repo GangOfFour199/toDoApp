@@ -1,6 +1,6 @@
 ## TO DO LIST
 
-![](toDoSnap.png)
+![](/assets/toDoSnap.png)
 
 ## ABOUT
 
